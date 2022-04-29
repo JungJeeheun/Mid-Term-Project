@@ -1,5 +1,4 @@
-#
-과제명 : Markdown Study
+# 과제명 : Markdown Study
 1.
 이름 : 정지헌
 2.
